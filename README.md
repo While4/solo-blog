@@ -10,7 +10,7 @@ While4 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://19940807.xyz/hello-solo)
+* [世界，你好！](http://19940807.xyz:8080/hello-solo)
 
 
 

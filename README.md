@@ -10,7 +10,7 @@ Hsu's Blog
 
 ### 最新
 
-* [世界，你好！](http://19940807.xyz:8080/hello-solo)
+* [世界，你好！](http://www.19940807.xyz:8080/hello-solo)
 
 
 
